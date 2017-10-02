@@ -9,9 +9,9 @@ git clone https://github.com/kennyhong/hci-lab-reports
 
 Using your favourite text editor you can copy and paste this template in a different file and erase these instructions. The headers do not need to be replace, but its a good idea to clear the contents of each section and write your own.
 
-#Name: [Your Name]
+# Name: [Your Name]
 
-#What have you done this past week?
+# What have you done this past week?
 
 * It can be bullet form by using an asterisk '*' 
 * You can continue it by adding another one.
@@ -20,12 +20,12 @@ Using your favourite text editor you can copy and paste this template in a diffe
 1. Markdown will also know when you are doing a numbered list as well.
 2. As you can see in this example
 
-#What are you doing for this week?
+# What are you doing for this week?
 
 * Set some goals for this week.
 * It's okay if they were not met, it will be explained in the next section.
 
-#Blockers / Plan of Action
+# Blockers / Plan of Action
 
 * Is something blocking from your goal?
 * How do you plan on unblocking yourself?
